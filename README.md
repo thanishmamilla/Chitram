@@ -1,5 +1,8 @@
 # Movie App 🎬
 
+THE ANDROID APK FILE IS HOSTED AT :-   https://www.upload-apk.com/jwjpNdPTtJYpHM9
+
+
 A React Native movie search app using the OMDB API. Users can search for movies, view details, and like their favorite movies.
 Steps to search movie
 
